@@ -1,5 +1,4 @@
-//import { useState, useEffect } from 'react';
-//import { useDebounce } from 'use-debounce';
+
 import css from './SearchBox.module.css';
 
 interface SearchBoxProps {
